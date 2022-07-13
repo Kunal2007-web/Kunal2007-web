@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">I'm Kunal Kumar</h1>
+<h1 align="center">Hi there 👋, I'm Kunal Kumar</h1>
 <h3 align="center">An Aspiring Web Developer from India and I am a FOSS Supporter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal2007-web&label=Profile%20views&color=0e75b6&style=flat" alt="kunal2007-web" /> </p>
