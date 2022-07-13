@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/kunalku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalku" height="30" width="40" /></a>
 <a href="https://twitter.com/kunalku2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalku2007" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kunal2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kunal2007" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15748417/kunal2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kunal2007" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalkumarchourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalkumarchourasiya" height="30" width="40" /></a>
 <a href="https://discord.gg/3248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3248" height="30" width="40" /></a>
 </p>
