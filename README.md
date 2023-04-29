@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunalku2007" target="blank"><img src="https://img.shields.io/twitter/follow/kunalku2007?logo=twitter&style=for-the-badge" alt="kunalku2007" /></a> </p>
 
-- 🔭 I’m currently working on **SpaceX Website Clone**
+- 🔭 I’m currently working on **KDotfiles**
 
 - 🌱 I’m currently learning **Javascript, JSON, AJAX, Bash Scripting**
 
