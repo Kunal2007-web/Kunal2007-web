@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bash Scripting**
 
-- 📫 How to reach me **kunalkumarchourasiya79@gmail.com**
+- 📫 How to reach me **[kunalkumarchourasiya79@gmail.com](mailto:kunalkumarchourasiya2021@gmail.com)**
 
 - ⚡ Fun fact **I started coding at the age of 12**
 
