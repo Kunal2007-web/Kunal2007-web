@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal2007-web" alt="kunal2007-web" /></a> </p>
 
-- 🔭 I’m currently working on <b>AJ Classes Website</b>
+- 🔭 I’m currently working on **AJ Classes Website**
 
-- 🌱 I’m currently learning **Bash Scripting**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **[kunalkumarchourasiya79@gmail.com](mailto:kunalkumarchourasiya2021@gmail.com)**
 
