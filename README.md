@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2007-web&" alt="kunal2007-web" /></p>
 
-<p><p align="right"><a href="https://app.daily.dev/kunal2007"><img src="https://api.daily.dev/devcards/94f530bf26214af2834016b619890a1c.png?r=65v" width="200" alt="Kunal Kumar's Dev Card"/></a></p></p>
+<p><a href="https://app.daily.dev/kunal2007"><img src="https://api.daily.dev/devcards/94f530bf26214af2834016b619890a1c.png?r=65v" width="200" alt="Kunal Kumar's Dev Card"/></a></p>
