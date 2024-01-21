@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I started coding at the age of 12**
 </p>
 <p align="right">
-<p align="right"><a href="https://app.daily.dev/kunal2007"><img src="https://api.daily.dev/devcards/94f530bf26214af2834016b619890a1c.png?r=65v" width="400" alt="Kunal Kumar's Dev Card"/></a></p>
+<p align="right"><a href="https://app.daily.dev/kunal2007"><img src="https://api.daily.dev/devcards/94f530bf26214af2834016b619890a1c.png?r=65v" width="200" alt="Kunal Kumar's Dev Card"/></a></p>
 </p>
 </p>
 
