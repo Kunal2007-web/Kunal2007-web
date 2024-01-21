@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal2007-web&label=Profile%20views&color=0e75b6&style=flat" alt="kunal2007-web" /> </p>
 
+<p align="right"><a href="https://app.daily.dev/kunal2007"><img src="https://api.daily.dev/devcards/94f530bf26214af2834016b619890a1c.png?r=65v" width="400" alt="Kunal Kumar's Dev Card"/></a></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal2007-web" alt="kunal2007-web" /></a> </p>
 
 - 🔭 I’m currently working on **AJ Classes Website**
