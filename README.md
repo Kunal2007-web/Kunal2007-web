@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal2007-web" alt="kunal2007-web" /></a> </p>
 
 
-- 🔭 I’m currently working on **Board Exams 📚**
+- 🔭 I’m currently working on **[KDotfiles](https://github.com/Kunal2007-web/KDotfiles)**
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **[kunalkumarchourasiya79@gmail.com](mailto:kunalkumarchourasiya2021@gmail.com)**
 
